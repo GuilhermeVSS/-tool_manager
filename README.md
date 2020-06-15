@@ -1,6 +1,4 @@
-# -tool_manager
-
-Tool Manager
+# Tool Manager
 Hi there! I'm the Tool Manager, my goal is to facilitate the task of organizing and managing tools for any user or company.
 
 Dependences
