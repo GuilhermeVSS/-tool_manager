@@ -5,7 +5,7 @@ Dependences
 Make sure you have nodeJS and npm installed in your machine, then run this command bellow
 
     npm install
-Authors
+Authors:
 Guilherme Ventura
 
 Credits
