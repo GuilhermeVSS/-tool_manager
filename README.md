@@ -1,7 +1,7 @@
 # -tool_manager
 
 Tool Manager
-Hi there! I'm the Tool Manager, my goal is to facilitate the task of organizing and managing tools for any user or company
+Hi there! I'm the Tool Manager, my goal is to facilitate the task of organizing and managing tools for any user or company.
 
 Dependences
 Make sure you have nodeJS and npm installed in your machine, then run this command bellow
