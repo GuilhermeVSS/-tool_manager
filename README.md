@@ -1,5 +1,10 @@
 # Tool Manager 👾🔨🚀  
 
+![](https://img.shields.io/badge/status-in%20progress-yellow) ![]
+
+## Goals
+
+This project exists to optimize the management of a company's tools and put into practice some techniques like data encryption and user authentication
 
 ## About
 
@@ -12,8 +17,17 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd <your folder>
 $ yarn install
-$ yarn app
+$ yarn dev
 ```
+
+### Dependencies
+
+Dependence       | Purpose
+---------------- | -------------------------
+jsonwebtoken     | User authentication
+bcryptjs         | Data encryption
+Sequelize        | ORM handles the database
+Sucrase          | Deals with syntax
 
 
 
